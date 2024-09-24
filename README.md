@@ -22,3 +22,4 @@ Muchas gracias
 ---
 **Equipo de Epidemiología e Información Estratégica en Salud** 
 ---
+![mapa_24092024_samic](https://github.com/user-attachments/assets/0e1f47b7-5380-442a-a6ca-8160869b2b5e)
