@@ -22,4 +22,5 @@ Muchas gracias
 ---
 **Equipo de Epidemiología e Información Estratégica en Salud** 
 ---
-![mapa_SE47_samic](https://github.com/user-attachments/assets/0e1f47b7-5380-442a-a6ca-8160869b2b5e)
+![mapa_SE47_samic](https://github.com/user-attachments/assets/af92a230-263b-4dda-94af-f9b3ce784693)
+
