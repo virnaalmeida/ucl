@@ -1,5 +1,5 @@
 # **Unidad Centinela de Lesiones Gobernador Cepernic Hospital de Alta Complejidad El Calafate SAMIC**
-Mapa Unidad Centinela de Lesiones por mordedura de perros, jaurías reconocidas e *impacto ambiental* **SE39,septiembre-2024**  
+Mapa Unidad Centinela de Lesiones por mordedura de perros, jaurías reconocidas e *impacto ambiental* **SE47, noviembre-2024**  
 ---
 Este mapa de construcción colaborativa entre el Departamento de Epidemiología e Información Estratégica del Hospital de Alta Complejidad El calafate-SAMIC, Gobernador Cepernic-Presidente Kirchner y vecinos/as de El Calafate, busca crear conciencia sobre la tenencia responsable de animales de compañía.  
 Entendemos desde la salud colectiva, que el problema de las mordeduras de perros es complejo y nos involucra a todos los actores. Desde el abordaje de **UNA SALUD**, no hay salud humana, sin salud animal, sin salud ambiental.  
@@ -22,4 +22,4 @@ Muchas gracias
 ---
 **Equipo de Epidemiología e Información Estratégica en Salud** 
 ---
-![mapa_24092024_samic](https://github.com/user-attachments/assets/0e1f47b7-5380-442a-a6ca-8160869b2b5e)
+![mapa_SE47_samic](https://github.com/user-attachments/assets/0e1f47b7-5380-442a-a6ca-8160869b2b5e)
